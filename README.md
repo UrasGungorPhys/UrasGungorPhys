@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UrasGungorPhys
-- 👀 I’m interested in Astrophysics!
-- 🌱 I’m currently learning to simulate physical systems.
+- 👀 I’m interested in particle physics and astrophysics!
+- 🌱 I’m currently learning simulation techniques along with data science, using Python, Julia and Geant4.
 
 
 <!---
